@@ -21,7 +21,7 @@ A Formula 1 focused machine learning model that predicts race outcomes for the 2
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tumcuctom/yuki.git
+git clone https://github.com/thomas-bale/yuki.git
 cd yuki
 ```
 

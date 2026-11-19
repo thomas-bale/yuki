@@ -149,7 +149,7 @@ export default function Home() {
               <a href="#" className="text-gray-400 hover:text-[var(--f1-red)] transition">About</a>
               <a href="#" className="text-gray-400 hover:text-[var(--f1-red)] transition">Data</a>
               <a href="https://github.com/theOehrly/Fast-F1" className="text-gray-400 hover:text-[var(--f1-red)] transition">API</a>
-              <a href="https://github.com/tumcuctom/yuki" className="text-gray-400 hover:text-[var(--f1-red)] transition">Github</a>
+              <a href="https://github.com/thomas-bale/yuki" className="text-gray-400 hover:text-[var(--f1-red)] transition">Github</a>
             </div>
           </div>
         </div>
